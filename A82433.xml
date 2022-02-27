@@ -1,0 +1,207 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for the better and more easie rebuilding the town of Northampton</title>
+            <title>Public General Acts. 1675. 27 Car.II.stat.2.c.1</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82433</idno>
+            <idno type="STC">Wing E1093A</idno>
+            <idno type="STC">ESTC R228855</idno>
+            <idno type="EEBO-CITATION">99897439</idno>
+            <idno type="PROQUEST">99897439</idno>
+            <idno type="VID">133174</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82433)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133174)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2497:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for the better and more easie rebuilding the town of Northampton</title>
+                  <title>Public General Acts. 1675. 27 Car.II.stat.2.c.1</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by the assigns of John Bill and Christopher Barker, printers to the Kings most excellent Majesty,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1675]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption title (p. 3).</note>
+                  <note>Imprint from title page, which reads: Anno Regni Caroli II. Regis Angliæ, Scotiæ, Franciæ &amp; Hiberniæ, vicesimo septimo, at the Parliament begun at Westminster the eighth day of May, anno Dom. 1661. ... And there continued by several prorogations, to the thirteenth day of October 1675.</note>
+                  <note>At head of p. 3: Anno XXVII Caroli II. Regis.</note>
+                  <note>Text in black letter.</note>
+                  <note>On leaf A2, last word first line of text: great-; first word of line below initial: divers; last word of last full line of text: Temporal,.</note>
+                  <note>Signatures: A-D² . Also part of a set comprised of original and reprinted copies of the Public General Acts from 27 Charles II to 1 James II.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+               <term>Northampton (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:133174:1" rendition="simple:additions"/>
+            <p>Anno Regni CAROLI II. REGIS <hi>Angliae, Scotiae, Franciae &amp; Hiberniae,</hi> Viceſimo ſeptimo,</p>
+            <p>At the <hi>Parliament</hi> begun at <hi>Westminster</hi> the Eighth day of <hi>May, Anno Dom.</hi> 1661. In the Thirteenth Year of the Reign of our moſt Gracious Sovereign Lord CHARLES, by the Grace of God, of <hi>England, Scotland France</hi> and <hi>Ireland</hi> King, Defender of the Faith, <hi>&amp;c.</hi>
+            </p>
+            <p>And there continued by ſeveral Prorogations, to the Thirteenth day of <hi>October</hi> 1675.</p>
+            <figure>
+               <figDesc>royal blazon or coat of arms</figDesc>
+               <head>C R</head>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+               <q>DIEV ET MON DROIT</q>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed by the Aſſigns of <hi>John Bill</hi> and <hi>Chriſtopher Barker,</hi> Printers to the Kings moſt Excellent Majeſty. 1675.</p>
+            <p>
+               <hi>C<g ref="char:V">Ʋ</g>M PRIVILEGIO.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="act">
+            <pb facs="tcp:133174:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:133174:2" rendition="simple:additions"/>
+            <head>Anno XXVII Caroli II. Regis. An Act for the better and more eaſie Rebuilding the Town of <hi>Northampton.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">F</seg>Oraſmuch as the great<g ref="char:EOLhyphen"/>eſt part of the Town of <hi>Northampton</hi> hath been burnt down by a ſudden and dreadful Fire, which happened in <hi>September</hi> laſt, and divers Suits and Controverſies by rea<g ref="char:EOLhyphen"/>ſon thereof, are likely to ariſe between the ſeveral Proprietors, and others claiming under them, tending (if not prevented) to the great vexation and damage of the Poor Inhabitants, and hindring the rebuilding the ſaid Town: For remedy whereof, as alſo for the promoting the rebuilding of the ſaid Town, Be it En<g ref="char:EOLhyphen"/>acted by the Kings moſt excellent Maje<g ref="char:EOLhyphen"/>ſty, by and with the Advice and Conſent of the Lords Spiritual and Temporal,
+<pb n="4" facs="tcp:133174:3" rendition="simple:additions"/>
+and Commons in this preſent Parlia<g ref="char:EOLhyphen"/>ment Aſſembled, and by the Authority of the ſame, That the Iudges of Aſ<g ref="char:EOLhyphen"/>ſize for the County of <hi>Northampton,</hi> and other the Iuſtices of the Courts of Kings Bench and Common Pleas, and the Barons of the Coif of the Exchequer for the time being, the Iuſtices of Peace for the ſaid County for the time, being, and the Mayor of the Town of <hi>Northampton</hi> for the time being, and Sir <hi>John Holman</hi> Baronet, Sir <hi>Edmund Bray</hi> Knight, <hi>Thomas Willughby, James Stedman, Robert Heſslerige, Thomas Andrews, Thomas Ward, Charles Fleetwood, Daniel Danvers, Salathiel Lovell,</hi> and <hi>William Kimbold</hi> Eſquires, or any five or more of them, ſitting at the ſame time and place together at the <hi>Guild<g ref="char:EOLhyphen"/>hall,</hi> or ſome other place within the ſaid Town of <hi>Northampton,</hi> ſhall be, and by authority aforeſaid are made and conſti<g ref="char:EOLhyphen"/>tuted a Court of Record, and ſhall or may, with, or without Adjournment from time to time, ſummarily, and with<g ref="char:EOLhyphen"/>out the Formalities of proceedings in Courts of Law or Equity, by verdict, teſtimony of witneſſes upon Oath, exa<g ref="char:EOLhyphen"/>mination of parties intereſted, or by all or any of the ſaid ways, or otherwiſe at their diſcretions, ſhall, and are hereby autho<g ref="char:EOLhyphen"/>rized from time to time to hear, and to determine all Differences and Demands whatſoever, which have ariſen, or may any wiſe ariſe between Landlords, Pro<g ref="char:EOLhyphen"/>prietors, Tenants, Leſſees, Vnder Te<g ref="char:EOLhyphen"/>nants, or late Occupiers of any the ſaid
+<pb n="5" facs="tcp:133174:3" rendition="simple:additions"/>
+Houſes or Buildings with their Ap<g ref="char:EOLhyphen"/>purtenances, or their Courts, Yards or Grounds, or any perſon or perſons having or claiming any Eſtate, Right, Title, Intereſt in Law or Equity, Charge or Incumbrance of or in the ſame, or their or any of their Heirs, Executors, Adminiſtrators, Succeſſors or Aſſigns, or any other perſons, for, touch<g ref="char:EOLhyphen"/>ing or concerning the repairing, building or not building of the ſaid Houſes or Buildings, Yards, Courts and Grounds, or for or concerning the payment, de<g ref="char:EOLhyphen"/>falcation, apportioning, or abatement of any Rent or Rents, other then Arrears of Rent onely, due on or before the Nine and twentieth day of <hi>September,</hi> One thouſand ſix hundred ſeventy and five, or for or touching any Covenant, Conditi<g ref="char:EOLhyphen"/>on or Penalty relating thereunto, or for, touching or concerning the prefixing or limiting of any time for ſuch Repairs, or new Building, or any Rate or Contribu<g ref="char:EOLhyphen"/>tion to be born or paid thereunto by any perſon or perſons, Bodies Politique or Corporate intereſted in the Premiſſes, and all Incidents relating thereunto: And that the definitive Order of the ſaid Court as aforeſaid, ſhall be final, as well between the ſaid parties, their Heirs, Ex<g ref="char:EOLhyphen"/>ecutors, Adminiſtrators, Succeſſors and Aſſigns, and all claiming by, from or un<g ref="char:EOLhyphen"/>der them, as touching the matter con<g ref="char:EOLhyphen"/>tained in ſuch Orders, from which there ſhall be no Appeal or Review otherwiſe then as is hereafter expreſſed.</p>
+            <p>
+               <pb n="6" facs="tcp:133174:4" rendition="simple:additions"/>And be it further Enacted by the Au<g ref="char:EOLhyphen"/>thority aforeſaid, That the ſaid Iudges of Aſſize for the County of <hi>Northampton,</hi> and other the Iuſtices of the Courts of Kings Bench and Common Pleas, and the Barons of the Coif of the Exchequer for the time being, the Iuſtices of the Peace for the ſaid County for the time being, and the Mayor of the Town of <hi>Northampton</hi> for the time being, and Sir <hi>John Holman</hi> Baronet, Sir <hi>Edmund Bray</hi> Knight, <hi>Thomas Willughby, James Sted<g ref="char:EOLhyphen"/>man, Robert Heſslerige, Thomas Andrews, Thomas Ward, Charles Fleetwood, Daniel Danvers, Salathiel Lovell</hi> and <hi>William Kim<g ref="char:EOLhyphen"/>bold</hi> Eſquires, or any five or more of them, as aforeſaid, ſhall have Authority, and are hereby Impowered where they ſhall think it convenient, to order the ſur<g ref="char:EOLhyphen"/>rendring, increaſing, abridging, ceaſing, determining or charging of any Eſtates in the Premiſſes, or to order new, or longer Eſtates to be made of any of the Premiſſes, by the Proprie<g ref="char:EOLhyphen"/>tors or Owners thereof, or other per<g ref="char:EOLhyphen"/>ſons intereſſed therein, to any Tenant or Sub-Tenant, or late Occupier of the ſame, their Executors, Adminiſtrators, Succeſſors or Aſſigns, at ſuch Rent or Fine as they ſhall think fit, unleſs in ſuch Caſes where the Laws of this Realm do forbid the diminiſhing of ancient and accuſtomable Rent; All which Orders, according to the tenors thereof, ſhall be obeyed by all perſons concerned therein reſpectively, and ſhall conclude and bind
+<pb n="7" facs="tcp:133174:4" rendition="simple:additions"/>
+them, their Heirs, Succeſſors, Executors, Adminiſtrators and Aſſigns reſpectively, notwithſtanding any diſability in reſpect of Coverture, Infancy, Non-ſanity of memory, Eſtate-Tayl, or in right of Church or otherwiſe: And that In<g ref="char:EOLhyphen"/>fants, Femes-covert, Ideots, perſons of non-ſane memory, or beyond the Seas, Tenants in Tail, Biſhops, Deans and Chapters, and other Eccleſiaſtical per<g ref="char:EOLhyphen"/>ſons, and their Succeſſors, Corporati<g ref="char:EOLhyphen"/>ons, and all other perſon or perſons, Bo<g ref="char:EOLhyphen"/>dies Natural and Politique, their Heirs and Succeſſors, and their reſpective In<g ref="char:EOLhyphen"/>tereſt, ſhall be bound and concluded by ſuch reſpective Order or Orders, accord<g ref="char:EOLhyphen"/>ing to the tenor or purport thereof; Any Law, Statute or Cuſtom, or other mat<g ref="char:EOLhyphen"/>ter or thing to the contrary notwith<g ref="char:EOLhyphen"/>ſtanding.</p>
+            <p>And be it further Enacted by the Au<g ref="char:EOLhyphen"/>thority aforeſaid, That the ſaid Court ſhall have power and authority to make and appoint from time to time, ſuch Rules and Directions in the Forms and Orders of Building, to be obſerved in the rebuilding of ſuch Houſes as were demo<g ref="char:EOLhyphen"/>liſhed by or by reaſon of the ſaid late Fire, or any of them, and for other Buildings made or to be made ſince the ſaid dreadful Fire, as they ſhall think fit and conveni<g ref="char:EOLhyphen"/>ent for the better Security and Orna<g ref="char:EOLhyphen"/>ment of the ſaid Town; And that the new Buildings of the ſaid demoliſhed Houſes, and all ſuch other Buildings, ſhall be purſuant to ſuch Rules and Directions
+<pb n="8" facs="tcp:133174:5" rendition="simple:additions"/>
+ſo given: And alſo that the ſaid Court ſhall and may appoint and decree the en<g ref="char:EOLhyphen"/>largement or alteration of any of the Streets Lanes, Roads and Paſſa<g ref="char:EOLhyphen"/>ges, and other places of Publique uſe in the ſaid Town, for the better uſe and conveniency thereof. And to the end that reaſonable ſatisfaction may be given for all ſuch Ground as ſhall be made uſe of, and employed to and for the uſes aforeſaid, the ſaid Court ſhall and may treat and agree with the Own<g ref="char:EOLhyphen"/>ers and others intereſted therein; and if any perſon ſhall wilfully refuſe to treat and agree as aforeſaid, or through any diſ<g ref="char:EOLhyphen"/>ability by Non-age, Coverture, eſpecial Entail or other impediment, cannot ac<g ref="char:EOLhyphen"/>cept thereof, That in ſuch caſes the ſaid Court are hereby impowered to Impan<g ref="char:EOLhyphen"/>nel &amp; Summon a Iury before them; which Iury upon their Oaths (to be Admini<g ref="char:EOLhyphen"/>ſtred by the ſaid Court) are to Aſſeſs ſuch Damage and Recompence as they ſhall judge fit to be awarded, to the Owners and others intereſted in the ſaid Ground, for their reſpective Intereſts in the ſame; and upon payment of the ſaid money ſo awarded or tendered, and refuſal thereof, the Intereſt of all perſons in the ſaid Ground, ſhall be for ever bound, and the ſame ſhall for ever after remain to the uſes aforeſaid.</p>
+            <p>And further, That the ſaid Court for the better regulation of the new Buil<g ref="char:EOLhyphen"/>ding of the ſaid demoliſhed Houſes, or any of them, ſhall by the authority of this
+<pb n="9" facs="tcp:133174:5" rendition="simple:additions"/>
+Act, have power to order or appoint the al<g ref="char:EOLhyphen"/>teration of the Foundations, or to take from one Houſe and add to another, or to order or appoint ſuch other alterations, as ſhall in their Iudgments be expedient for the better rebuilding of the ſaid Town: And that the ſaid Court ſhall and may award what ſum of money ſhall be paid by the perſon who hath any benefit by ſuch alteration, unto the perſon or perſons who hath any loſs or da<g ref="char:EOLhyphen"/>mage thereby, in ſatisfaction for the ſame. And in caſe the ſaid perſon or perſons will not, or through any ſuch diſability or other impediment as is before in this Act expreſ<g ref="char:EOLhyphen"/>ſed, cannot accept thereof; in ſuch Caſes the ſaid Court are hereby impowered to Im<g ref="char:EOLhyphen"/>pannel and Summon a Iury before them, which Iury upon their Oathes, to be ad<g ref="char:EOLhyphen"/>miniſtred by the ſaid Court, are to aſſeſs ſuch Damage &amp; Recompence as they think fit to be awarded by the perſon who hath benefit by ſuch alteration or addition, to the perſon or perſons damnified, for his or their loſs and damage thereby: And upon pay<g ref="char:EOLhyphen"/>ment of the ſaid money ſo awarded, or ten<g ref="char:EOLhyphen"/>der, and refuſal thereof, the perſon or perſons damnified ſhall be for ever barred, and the perſon having benefit thereby, his Heirs and Aſſigns, ſhall for ever after hold and enjoy that which ſhall be ſo appointed and aſſigned to him by the ſaid Court, as afore<g ref="char:EOLhyphen"/>ſaid.</p>
+            <p>Provided, That the ſaid Rules and Di<g ref="char:EOLhyphen"/>rections do not extend to the taking away of the Ground or Soyl of any perſon or perſons, Bodies Politique or Corporate, or others,
+<pb n="10" facs="tcp:133174:6" rendition="simple:additions"/>
+otherwiſe then to inlarge the paſſages at the corners and places herein after mentioned and to take away the Houſes herein after expreſſed, that is to ſay, To inlarge the paſ<g ref="char:EOLhyphen"/>ſage at the Corner which ſtands in the paſ<g ref="char:EOLhyphen"/>ſage between the South Street and the Street called the <hi>Drapery,</hi> the Corner Houſe there being late in the Tenure of <hi>Bartholo<g ref="char:EOLhyphen"/>mew Manning;</hi> and at the Corners which ſtand in the paſſage between the ſaid Street called the <hi>Drapery,</hi> and the Street called the <hi>Sheep Market,</hi> on the North end of the ſaid Street called the <hi>Drapery;</hi> and to inlarge all the Street or paſſage between the North ſide of <hi>All Saints</hi> Church, and the Houſes to be built over againſt it, and the Street or Paſſage on the South ſide of the ſaid Church, and the Houſes to be built over againſt it; and to take away all thoſe Houſes which ſtood between the Row of Buildings lying on the South ſide of the <hi>Market Hill,</hi> called the <hi>Mercers Row,</hi> and the Row of Buildings lying on the North ſide of the ſaid <hi>Market Hill;</hi> and to inlarge the North Corner of the Paſſage between the Market-place and the Street called <hi>Abington; Street</hi> and to inlarge the Paſſage which went about the middle of the Eaſt ſide of the <hi>Drapery Street</hi> into the Market-place. And further, in caſe the Proprietors or Owners of the Houſes demo<g ref="char:EOLhyphen"/>liſhed by or by reaſon of the ſaid Fire, or their Aſſigns, ſhall not within the ſpace of Three years next enſuing after the ſaid Fire, lay the Foundations of their Houſes to be re<g ref="char:EOLhyphen"/>built, and ſhall not within the time to be li<g ref="char:EOLhyphen"/>mited by the ſaid Court, rebuild and finiſh
+<pb n="11" facs="tcp:133174:6" rendition="simple:additions"/>
+the ſame, That upon ſuch default, the ſaid Court ſhall have Power and Authority by their Order and Decree, to diſpoſe of the ſaid Houſes ſo to be rebuilt, and of the Soyl there<g ref="char:EOLhyphen"/>of, one of all Yards, Backſides, Orchards, Gardens, and other Appurtenances there<g ref="char:EOLhyphen"/>unto belonging, to ſuch perſon as will re<g ref="char:EOLhyphen"/>build the ſame, their Heirs and Aſſigns: And that the ſaid Court ſhall and may award what ſum of money or other ſatisfaction the perſon who undertakes to be the Rebuilder, ſhall give for the ſame, to the Proprietor or Proprietors, Owner or Owners making ſuch default as aforeſaid: And in caſe the ſaid perſon or perſons making default, will not, or through any ſuch diſability, or other im<g ref="char:EOLhyphen"/>pediment as is before in this Act expreſſed, cannot accept thereof, in ſuch caſes the ſaid Court are hereby Impowered to Impan<g ref="char:EOLhyphen"/>nel and Summon a Iury before them; which Iury upon their Oathes (to be adminiſtred by the ſaid Court) are to aſſeſs ſuch recompence and ſatisfaction as they ſhall think fit to be awarded and payed unto the perſon or perſons ma<g ref="char:EOLhyphen"/>king default in rebuilding, for the ſaid Houſes to be rebuilt, and for the Soyl thereof, and for the Yards, Backſides, Orchards, Gar<g ref="char:EOLhyphen"/>dens, and other Appurtenances thereunto belonging, by the perſon who undertakes to be the rebuilder: And upon payment of the ſaid recompence and ſatisfaction to award<g ref="char:EOLhyphen"/>ed, or tender and refuſal thereof, the ſaid perſon or perſons making default in rebuild<g ref="char:EOLhyphen"/>ing, his Heirs and Aſſigns, and all others, ſhall be for ever barred; and the ſaid Houſes
+<pb n="12" facs="tcp:133174:7" rendition="simple:additions"/>
+to be rebuilt, and the Soyl, and other the Appurtenances thereof, ſo aſſigned by the ſaid Court unto the Undertaker to rebuild the ſame, ſhall for ever after be and re<g ref="char:EOLhyphen"/>main unto the ſaid Rebuilder, his Heirs and Aſſigns for ever, in ſuch manner as the ſaid Court ſhall have aſſigned and appointed the ſame.</p>
+            <p>And for the preventing of future danger by Fire, it is further Enacted by the Autho<g ref="char:EOLhyphen"/>rity aforeſaid, That all Houſes, Out-houſes, and other Buildings demoliſhed by the late Fire, or hereafter to be built within the ſaid Town, ſhall be covered with Lead, Slatt or Tyle, and not otherwiſe; and that no perilous Trade, in reſpect of Fire, ſhall hereafter be uſed or exerciſed in the principal Publique parts or Streets of the ſaid Town; and that all Houſes and Buildings hereafter to be built, which ſhall be covered contrary to this preſent Act, and all Houſes demoliſhed by the ſaid Fire, built contrary to the Form, Order and Direction of the ſaid Court, ſhall be adjudged, and are hereby declared to be common and publique Nuſan<g ref="char:EOLhyphen"/>ces, and be proceeded againſt, and dealt with accordingly.</p>
+            <p>And be it alſo Enacted by the Authority aforeſaid, That where any ſuch Order or Decree, as aforeſaid, ſhall be made by a leſ<g ref="char:EOLhyphen"/>ſer number of the ſaid Iudges, Iuſtices of Peace, and other the perſons above named and authorized, then Seven, It ſhall be lawful for any perſon agrieved by ſuch Or<g ref="char:EOLhyphen"/>der or Decree, to preſent his exceptions to the ſame in writing, within Twenty dayes
+<pb n="13" facs="tcp:133174:7" rendition="simple:additions"/>
+next after ſuch Order or Decree made, to one of the Iudges of Aſſize for the ſaid County of <hi>Northampton</hi> for the time being, or other the Iuſtices of the Courts of Kings Bench or Common Pleas, or the Barons of the Coif of the Exchequer for the time being; and if one of them ſhall ſubſcribe thereunto, that he finds probable Cauſe of Complaint, then it ſhall be lawful to or for any Seven, or more, of the Iudges of Aſſize, Iuſtices of the Peace, and other perſons above na<g ref="char:EOLhyphen"/>med, (that made not the ſaid Order or Decree) ſitting at the ſame time together at the <hi>Guildhall,</hi> or ſome other place within the ſaid Town of <hi>Northampton,</hi> to review the ſaid former Order or Decree, and there<g ref="char:EOLhyphen"/>upon to reverſe, confirm, inlarge, diminiſh, or otherwiſe alter any ſuch Order or Decree, as in their Iudgments they ſhall think fit, or otherwiſe to award Coſts againſt ſuch Appeallants, for their vexation and delay, and to levy the ſame by diſtreſs and ſale of his, her, or their Goods, rendring the over<g ref="char:EOLhyphen"/>plus, if any be. Provided always, That ſuch Appeals be fully finiſhed and determined within the ſpace of Six moneths next fol<g ref="char:EOLhyphen"/>lowing, after the delivering in of ſuch Ex<g ref="char:EOLhyphen"/>ceptions as aforeſaid.</p>
+            <p>And for the better ſatisfaction of Builders, Purchaſers, and other concerned, It is further Enacted by the Authority afore<g ref="char:EOLhyphen"/>ſaid, That all and every Iudgment, Order and Decree ſo made as aforeſaid, ſhall be good, valid and effectual both in Law and Equity to all intents and purpoſes, and ſhall be obeyed by all perſons concerned therein,
+<pb n="14" facs="tcp:133174:8" rendition="simple:additions"/>
+and ſhall bind and conclude Infants, Feme-Coverts, Ideots, perſons of Non-ſaue me<g ref="char:EOLhyphen"/>mory, or beyond the Sea, Tenants in Tail, Biſhops, Deans and Chapters, and all other Eccleſiaſtical perſons and Corporations, and their Succeſſors, and all other perſons, Bo<g ref="char:EOLhyphen"/>dies Natural and Politique whatſoever, and that no Writ of Errour or <hi>Certiorari</hi> ſhall be for the removal or reverſal of the ſame. And for the perpetuating the ſame to all poſte<g ref="char:EOLhyphen"/>rity, that the ſaid Iudgments, Orders and Decrees ſhall be fairly entred into one or more Books, and be ſubſcribed with the names of the perſons that made the ſame, and that the ſaid Books be delivered in unto the Mayor and Aldermen of the ſaid Town of <hi>Northamp<g ref="char:EOLhyphen"/>ton</hi> for the time being, to the end the ſame may be ſafely diſpoſed and kept in the Cham<g ref="char:EOLhyphen"/>ber of the ſaid Town for ever, amongſt their Records and Evidences, and that all per<g ref="char:EOLhyphen"/>ſons concerned may have free liberty of re<g ref="char:EOLhyphen"/>courſe unto the ſaid Books, to peruſe the ſame from time to time, as occaſion ſhall re<g ref="char:EOLhyphen"/>quire. The Powers and Authorities given and mentioned in this Act, to continue for the ſpace of Ten years, and no longer.</p>
+            <p>And for the better encouragement of Gen<g ref="char:EOLhyphen"/>tlemen and others to build and reſide in the ſaid Town, Be it Enacted by Authority aforeſaid, That the Iuſtices of the Peace for the County of <hi>Northampton</hi> from time to time being, who ſhall be Inhabitants with<g ref="char:EOLhyphen"/>in the ſaid Town, may for ever hereafter uſe and exerciſe their ſaid Office to all in<g ref="char:EOLhyphen"/>tents and purpoſes, within the ſaid Town and Liberties thereof, and in the Seſſions
+<pb n="15" facs="tcp:133174:8" rendition="simple:additions"/>
+of the ſaid Town to be held, as they may or can do in the ſaid County at large, or in the Publique Seſſions thereof: And that all other perſons who from time to time ſhall be Iuſtices of the Peace for the ſaid County, ſhall for ever hereafter uſe and exerciſe the ſaid Office within the ſaid Town and Li<g ref="char:EOLhyphen"/>berties thereof, during the time in which the Aſſizes and Publique Seſſions of the Peace for the ſaid County ſhall be there kept: And that all and every ſuch perſons as are not free of the ſaid Town, and ſhall build a<g ref="char:EOLhyphen"/>ny Houſe or Houſes in the ſaid Town, to the value of Three hundred pounds, or upwards (within Seven years) from the Twentieth day of <hi>September</hi> laſt paſt, by and according to the Order of the ſaid Court, ſuch perſons ſhall have liberty to exerciſe any Trade within the ſaid Town, as any Free<g ref="char:EOLhyphen"/>man of the ſaid Town may do.</p>
+            <p>Provided always, and it is hereby Enact<g ref="char:EOLhyphen"/>ed, That all and every perſon and perſons, before they execute any of the Powers or Au<g ref="char:EOLhyphen"/>thorities in the ſaid Act mentioned, ſhall take this Oath following, before any Two Iu<g ref="char:EOLhyphen"/>ſtices of Peace of the ſaid County of <hi>North<g ref="char:EOLhyphen"/>hampton</hi> for the time being, which they are hereby impowered to Adminiſter: That is to ſay,
+<q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="oath">
+                           <p>I Do hereby Swear, That I will juſtly and tru<g ref="char:EOLhyphen"/>ly Execute the Powers and Authorities in this Act contained, according to the beſt of my knowledge, without favour or affection to any of the Parties concerned: So help me God.</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </p>
+            <pb n="16" facs="tcp:133174:9" rendition="simple:additions"/>
+            <p>And laſtly it is Enacted, That if any per<g ref="char:EOLhyphen"/>ſon or perſons ſhall be Sued or Impleaded for any matter or thing done in the Execution of this Act, or in purſuance thereof, he or they may plead the General Iſſue, and give the ſpecial matter in Evidence; and if the Plaintiff ſhall be Nonſuit, or a Verdict do paſs againſt him, ſuch Defendant ſhall have and recover his double Coſt.</p>
+         </div>
+      </body>
+      <back>
+         <div type="list_of_acts">
+            <head>Private Acts.</head>
+            <p n="1">
+               <hi>I.</hi> AN Act for the better Enabling of <hi>Mary</hi> Coun<g ref="char:EOLhyphen"/>teſs Dowager of <hi>Warwick,</hi> to perform the last Will and Teſtament of her deceaſed Husband, <hi>Charles</hi> late Earl of <hi>Warwick.</hi>
+            </p>
+            <p n="2">
+               <hi>II.</hi> An Act for vesting Lands of <hi>Alexander Davyes</hi> Gentleman deceaſed, in Truſtees, for payment of his Debts.</p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by the Aſſigns of <hi>John Bill</hi> and <hi>Christo<g ref="char:EOLhyphen"/>pher Barker,</hi> Printers to the Kings Moſt Excellent Majeſty. 1675.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
